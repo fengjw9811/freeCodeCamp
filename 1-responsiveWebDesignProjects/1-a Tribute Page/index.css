@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #74638f
+}
+
+#main {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #eeeeee;
+}
+
+#title {
+    color: #333333;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 50px;
+    text-align: center;
+}
+
+#small-title {
+    color: #333333;
+    font-size: 15px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    margin: 30px auto;
+    width: 1645px;
+    background-color: #fff;
+}
+
+#img {
+    padding-top: 40px;
+    width: 1024px;
+    height: 623px;
+}
+
+#img-caption {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+#career {
+    margin: 60px 0;
+}
+
+#time-line {
+    margin: 0 auto;
+    text-align: center;
+    width: 600px;
+}
+
+ul {
+    text-align: left;
+}
+
+li {
+    margin-top: 20px;
+}
+
+#li-first {
+    margin-top: 50px;
+}
+
+#evaluation {
+    margin: 50px auto;
+    text-align: left;
+    width: 500px;
+    font-family: "楷体";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+cite {
+    margin: 20px auto;
+    text-align: left;
+    width: 500px;
+}
+
+footer {
+    font-size: 20px;
+    padding-bottom: 30px;
+}
